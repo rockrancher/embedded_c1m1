@@ -37,8 +37,83 @@ void main() {
                                 7,  87, 250, 230,  99,   3, 100,  90};
 
   /* Other Variable Declarations Go Here */
-  /* Statistics and Printing Functions Go Here */
+ 
 
-}
 
-/* Add other Implementation File Code Here */
+  /* Print the initial array */
+
+  print_array(test, SIZE){
+	  
+    };
+
+  /* Print the min, max, mean and median values */
+
+  print_statistics(test, SIZE){
+	  
+    };
+
+  /* Sort the array (this permanently overwrites original) */
+  /* Then print the sorted array */
+
+  sort_array(test, SIZE){
+
+    };
+
+  print_array(test, SIZE){
+
+    };
+
+};
+
+
+
+
+
+
+/* Define function find_minimum() */
+
+unsigned char find_minimum(unsigned char *arr, int size){
+
+};
+
+
+/* Define function find_maximum() */
+
+unsigned char find_maximum(unsigned char *arr, int size){
+
+};
+
+/* Define function find_mean() */
+
+unsigned char find_mean(unsigned char *arr, int size){
+
+};
+
+
+/* Define function find_median() */
+
+unsigned char find_median (unsigned char *arr, int size){
+
+};
+
+/* Define function print_statistic() */
+
+void print_statistics(unsigned char *arr, int size){
+
+};
+
+
+/* Define function print_array() */
+
+void print_array(unsigned char *arr, int size){
+
+};
+
+/* Define function sort_array() */
+
+void sort_array(unsigned char *arr, int size){
+
+};
+
+
+
